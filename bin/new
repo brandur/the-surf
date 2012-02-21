@@ -35,9 +35,10 @@ fi
 if [ "$type" == "articles" ]; then
   touch "$target.md"
   cat > "$target.rb" <<EOF
-{ title:   "", 
-  slug:    "$slug", 
-  summary: ""
+{ title:        "", 
+  slug:         "$slug", 
+  published_at: Time.parse("$(date)"), 
+  summary:      "", 
 }
 EOF
 else
