@@ -1,4 +1,4 @@
-With the upcoming remake of _Total Recall_ (aka _We Can Remember It for You Wholesale_), it's worth taking a moment to remember the man who composed the source material. Here are a few quotes from _Flow My Tears, the Policeman Said_ to help glimpse the literary genius of Philip K. Dick.
+With the upcoming remake of _Total Recall_ (aka _We Can Remember It for You Wholesale_), it's worth taking a moment to remember the man who composed the source material. Here are a few passages from _Flow My Tears, the Policeman Said_ to help glimpse the literary genius of Philip K. Dick.
 
 > "Drive me back to the academy," Buckman said. "I don't think I can drive; I'm shaking too bad." He felt something on his face; putting up his hand, he found that his chin was wet, "What's this on me?" he said, amazed.
 >
