@@ -8,7 +8,7 @@ And:
 
 > I must turn a terrible tragedy into an advantage, Buckman realized. Capitalize on the accidental death of my own sister. If it _was_ accidental.
 >
-> "Maybe it's true," he said. Possible Marshal Holbein, for example, who hated him enormously, had arranged it.
+> "Maybe it's true," he said. Possibly Marshal Holbein, for example, who hated him enormously, had arranged it.
 >
 > "No," Herb said. "It's not true. But start an inquiry. And you must find someone to pin it on; there must be a trial."
 
