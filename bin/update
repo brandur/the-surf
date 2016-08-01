@@ -4,4 +4,4 @@ set -e
 
 . bin/_common.sh
 
-curl -i -u ":$THE_SURF_HTTP_AUTH_KEY" -X PUT $THE_SURF_HOST/$type/$slug --data-urlencode "attributes@$target.rb" --data-urlencode "content@$target.md"
+curl -i -u ":$THE_SURF_HTTP_AUTH_KEY" -X PUT $THE_SURF_HOST/$type/$slug --data-urlencode "content@$target.md"
